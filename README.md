@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tri Adi</h1>
-<h3 align="center">A passionate Software Engineer from Malang</h3>
+<h3 align="center">A passionate Software Engineer from Malang, Indonesia</h3>
 
 - 🔭 I’m currently working on [Fitnessist](https://github.com/Fitnessist)
 
