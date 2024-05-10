@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tri Adi</h1>
 <h3 align="center">A passionate Software Engineer from Malang, Indonesia</h3>
 
-- 🔭 I’m currently working on [Fitnessist](https://github.com/Fitnessist)
-
-- 🌱 I’m currently learning **Golang, Microservices and Cloud Tech**
-
 - 💬 Ask me about **Laravel, Typescript, MERN**
 
 - 📫 How to reach me **triadilaksamana@gmail.com**
