@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tri Adi</h1>
 <h3 align="center">A passionate Software Engineer from Malang, Indonesia</h3>
 
+<image src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif" />
+
 - 💬 Ask me about **Laravel, Typescript, MERN**
 
 - 📫 How to reach me **triadilaksamana@gmail.com**
